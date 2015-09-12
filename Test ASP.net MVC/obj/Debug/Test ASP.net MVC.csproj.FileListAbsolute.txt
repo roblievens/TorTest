@@ -1,0 +1,69 @@
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\csc.exe
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\vbc.exe
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Test ASP.net MVC.dll.config
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Test ASP.net MVC.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Test ASP.net MVC.pdb
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Antlr3.Runtime.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\EntityFramework.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Newtonsoft.Json.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Owin.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Helpers.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Mvc.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Optimization.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Razor.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.WebPages.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\WebGrease.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Helpers.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Mvc.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Optimization.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.Razor.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.WebPages.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Newtonsoft.Json.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\EntityFramework.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\obj\Debug\Test ASP.net MVC.csprojResolveAssemblyReference.cache
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\obj\Debug\Test ASP.net MVC.dll
+C:\Users\Rob\App development\C#\Test ASP.net MVC\Test ASP.net MVC\obj\Debug\Test ASP.net MVC.pdb
